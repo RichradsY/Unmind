@@ -40,17 +40,6 @@
 
 ---
 
-## 🛠 Technology / 技术栈 / Technologie
-
-*   **SwiftUI**: Modern declarative UI framework.
-*   **SpriteKit**: Particle systems and physics for destruction effects.
-*   **Combine**: State management with `ObservableObject`.
-*   **AVFoundation**: Audio playback for BGM and sound effects.
-*   **CoreHaptics**: Advanced haptic feedback.
-*   **Localization**: Fully localized in English, Chinese (Simplified), and French.
-
----
-
 ## 🔒 Privacy / 隐私 / Confidentialité
 
 **Nomind is an offline-first application.**
@@ -63,18 +52,6 @@ It does not connect to the internet to store user content. All text input is eph
 Elle ne se connecte pas à internet pour stocker le contenu de l'utilisateur. Tout le texte saisi est éphémère et est supprimé de la mémoire spécifiquement lorsque l'action "Détruire" est déclenchée. Les paramètres sont stockés localement sur votre appareil via `UserDefaults`.
 
 See [PRIVACY.md](PRIVACY.md) for more details.
-
----
-
-## 📸 Screenshots / 截图 / Captures d'écran
-
-*(Add your screenshots here / 在此处添加截图 / Ajoutez vos captures d'écran ici)*
-
-|<img src="docs/screen1.png" width="200" />|<img src="docs/screen2.png" width="200" />|<img src="docs/screen3.png" width="200" />|
-|:---:|:---:|:---:|
-|**Home / 主页**|**Destroy / 销毁**|**Settings / 设置**|
-
----
 
 ## 📄 License
 
