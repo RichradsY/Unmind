@@ -1,4 +1,4 @@
-# Unmind / 无念
+# Unmind / 断念
 
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-3.0-blue.svg)](https://developer.apple.com/xcode/swiftui/)
 [![Platform](https://img.shields.io/badge/Platform-iOS%2015%2B-lightgrey.svg)](https://developer.apple.com/ios/)
