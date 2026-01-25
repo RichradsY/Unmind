@@ -4,7 +4,7 @@
 
 ## 🇬🇧 English
 
-**Unmind** ("the App") respects your privacy. We believe that your thoughts belong to you alone.
+**Nomind** ("the App") respects your privacy. We believe that your thoughts belong to you alone.
 
 ### 1. Data Collection
 We **do not** collect, store, or transmit any personal data, text input, or usage analytics to external servers. The App functions entirely offline.
@@ -50,7 +50,7 @@ The App does not use any third-party tracking, analytics, or advertising SDKs.
 
 ## 🇫🇷 Français
 
-**Unmind** ("l'Application") respecte votre vie privée. Nous croyons que vos pensées n'appartiennent qu'à vous.
+**Nomind** ("l'Application") respecte votre vie privée. Nous croyons que vos pensées n'appartiennent qu'à vous.
 
 ### 1. Collecte de Données
 Nous **ne collectons pas**, ne stockons pas et ne transmettons pas de données personnelles, de texte saisi ou d'analyses d'utilisation à des serveurs externes. L'Application fonctionne entièrement hors ligne.
