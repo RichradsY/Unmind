@@ -1,14 +1,14 @@
-# Unmind (Nomind)/ 断念
+# Nomind / 断念
 
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-3.0-blue.svg)](https://developer.apple.com/xcode/swiftui/)
 [![Platform](https://img.shields.io/badge/Platform-iOS%2015%2B-lightgrey.svg)](https://developer.apple.com/ios/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-**Unmind** is a minimalist mindfulness app designed to help you let go of disturbing thoughts. Type out what's on your mind, and watch it turn into dust.
+**Nomind** is a minimalist mindfulness app designed to help you.
 
-**无念** 是一款极简主义的正念应用，旨在帮助你释放心中的杂念。写下你的烦恼，然后看着它们化为尘埃。
+**断念** 是一款极简主义的正念应用，旨在帮助你释放心中的杂念。写下你的烦恼，然后看着它们化为尘埃。
 
-**Unmind** est une application de pleine conscience minimaliste conçue pour vous aider à lâcher prise. Écrivez ce qui vous préoccupe et regardez-le se transformer en poussière.
+**Nomind** est une application de pleine conscience minimaliste conçue pour vous aider à lâcher prise. Écrivez ce qui vous préoccupe et regardez-le se transformer en poussière.
 
 ---
 
@@ -38,21 +38,44 @@
 *   **Personnalisation**: Changez les polices, la taille du texte et personnalisez les invites.
 *   **Haptique & Audio**: Retours tactiles et effets sonores satisfaisants.
 
+---
+
+## 🛠 Technology / 技术栈 / Technologie
+
+*   **SwiftUI**: Modern declarative UI framework.
+*   **SpriteKit**: Particle systems and physics for destruction effects.
+*   **Combine**: State management with `ObservableObject`.
+*   **AVFoundation**: Audio playback for BGM and sound effects.
+*   **CoreHaptics**: Advanced haptic feedback.
+*   **Localization**: Fully localized in English, Chinese (Simplified), and French.
 
 ---
 
 ## 🔒 Privacy / 隐私 / Confidentialité
 
-**Unmind is an offline-first application.**
+**Nomind is an offline-first application.**
 It does not connect to the internet to store user content. All text input is ephemeral and is deleted from memory specifically when the "Destroy" action is triggered. Settings are stored locally on your device using `UserDefaults`.
 
-**无念是一款离线应用。**
+**断念是一款离线应用。**
 它不会连接互联网来存储用户内容。所有输入的文字都是临时的，会在触发“销毁”操作时从内存中彻底删除。设置信息仅通过 `UserDefaults` 存储在您的本地设备上。
 
-**Unmind est une application hors ligne.**
+**Nomind est une application hors ligne.**
 Elle ne se connecte pas à internet pour stocker le contenu de l'utilisateur. Tout le texte saisi est éphémère et est supprimé de la mémoire spécifiquement lorsque l'action "Détruire" est déclenchée. Les paramètres sont stockés localement sur votre appareil via `UserDefaults`.
 
 See [PRIVACY.md](PRIVACY.md) for more details.
 
 ---
 
+## 📸 Screenshots / 截图 / Captures d'écran
+
+*(Add your screenshots here / 在此处添加截图 / Ajoutez vos captures d'écran ici)*
+
+|<img src="docs/screen1.png" width="200" />|<img src="docs/screen2.png" width="200" />|<img src="docs/screen3.png" width="200" />|
+|:---:|:---:|:---:|
+|**Home / 主页**|**Destroy / 销毁**|**Settings / 设置**|
+
+---
+
+## 📄 License
+
+MIT License. Copyright (c) 2024.
