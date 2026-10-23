@@ -31,7 +31,10 @@ Writing and letting go work offline. The App connects to the internet only when:
 ### 5. Permissions and third parties
 The App does not ask for access to your microphone, camera, photos, contacts or location. It contains no third-party analytics, advertising or tracking code.
 
-### 6. Changes and contact
+### 6. Network use and China ICP filing
+Nomind runs on your device. We do not operate any server, backend or API, and the app never uploads, hosts or publishes your content to any server. Its network use is limited to Apple's in-app purchase service and opening our web pages in your browser. As the app does not provide internet information services, we understand it to be outside the scope of China's MIIT app filing (ICP) requirement.
+
+### 7. Changes and contact
 If this policy changes, we will update this page and the date above. Questions: [support page](https://aigovmap.com/demind.html).
 
 ---
@@ -65,7 +68,10 @@ If this policy changes, we will update this page and the date above. Questions: 
 ### 5. 权限与第三方
 本应用不申请麦克风、相机、照片、通讯录或位置权限，不包含任何第三方统计、广告或追踪代码。
 
-### 6. 变更与联系
+### 6. 网络与备案说明
+断念在你的设备上运行。开发者不运营任何服务器、网站后端或接口，App 不会把你的内容上传、托管或发布到任何服务器。App 的联网仅限 Apple 提供的 App 内购买服务，以及在浏览器中打开我们的网页。本 App 不提供互联网信息服务，因此我们理解其不属于工业和信息化部移动互联网应用程序（ICP）备案的适用范围。
+
+### 7. 变更与联系
 本政策如有变化，会更新本页面及上方日期。如有疑问：[支持页面](https://aigovmap.com/demind-zh.html)。
 
 ---
@@ -99,5 +105,8 @@ Ces données restent sur votre appareil. Si vous sauvegardez votre appareil, iOS
 ### 5. Autorisations et tiers
 L’Application ne demande pas l’accès au micro, à l’appareil photo, aux photos, aux contacts ni à la localisation. Elle ne contient aucun code tiers d’analyse, de publicité ou de suivi.
 
-### 6. Modifications et contact
+### 6. Utilisation du réseau et enregistrement ICP en Chine
+Nomind fonctionne sur votre appareil. Nous n’exploitons aucun serveur, back-end ni API, et l’Application n’envoie, n’héberge ni ne publie jamais votre contenu sur un serveur. Son usage du réseau se limite au service d’achats intégrés d’Apple et à l’ouverture de nos pages web dans votre navigateur. L’Application ne fournissant pas de services d’information sur Internet, nous considérons qu’elle n’entre pas dans le champ de l’enregistrement ICP exigé par le MIIT en Chine.
+
+### 7. Modifications et contact
 Si cette politique change, nous mettrons à jour cette page et la date ci-dessus. Questions : [page d’aide](https://aigovmap.com/demind-fr.html).
